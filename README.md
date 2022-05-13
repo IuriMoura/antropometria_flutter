@@ -1,6 +1,9 @@
 # antropometria_flutter
+Autor: Iuri Moura
 
-A new flutter module project.
+Descrição:
+O projeto é um calculador antropometrico, usando o imc e o cálculo de percentual de gordura baseado em dobras
+cutaneâs, consiste em 3 telas, sendo a tela do IMC, a tela do percentual de gordura e a tela principal.
 
 ## Getting Started
 
